@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\Android\ASWorkSpace\SmartMap\app\libs\AMap_Search_V2.8.0_20160105.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3babc84b93ea0cb9ca53a4c4858a561fd300fe50">
+        <dex dex="G:\Android\ASWorkSpace\SmartMap\app\build\intermediates\pre-dexed\debug\AMap_Search_V2.8.0_20160105-8c313dac141d53c0f7b4046209ced257604c8c16.jar" />
+    </item>
+    <item
+        jar="G:\Android\ASWorkSpace\SmartMap\app\libs\AMap_Location_v2.3.0_20160112.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bfe17aa93c71a6973a53fcbaf7bfe2f3a1859dcf">
+        <dex dex="G:\Android\ASWorkSpace\SmartMap\app\build\intermediates\pre-dexed\debug\AMap_Location_v2.3.0_20160112-45ee3530ae1baed4b0a07fd79fd21887af44120f.jar" />
+    </item>
+
+</items>
